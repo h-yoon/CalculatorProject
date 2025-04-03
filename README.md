@@ -1,4 +1,4 @@
-# iOS Calculator App (UIKit 기반)
+# Calculator Project
 
 # 📖 목차
 1. [프로젝트 소개](#프로젝트-소개)
