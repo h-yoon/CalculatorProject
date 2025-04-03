@@ -78,9 +78,6 @@ ViewController.swift
 ├── 버튼 생성 (makeButton)
 ├── 입력 처리 (buttonTapped)
 └── 수식 계산 호출 (CalculatorEngine)
-
-CalculatorEngine.swift → calculate(expression:)
-CalculatorButton.swift → makeButton(title:backgroundColor:)
 ```
 
 ---
